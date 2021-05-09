@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-effect_2.13/2.2.0/cats-effect_2.13-2.2.0-sources.jar!/cats/effect/IO.scala">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
